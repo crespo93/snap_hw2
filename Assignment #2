@@ -1,0 +1,13 @@
+Question for JingSong Chu:
+1) What does git clone do?
+copy a project so that we can work on it.
+
+2) What is a remote repository?
+Remote repository is version of your project that are hosted on the Internet or network somewhere. 
+
+Question for B (I didn't find a collabrator so I just answered these two questions by myself):
+1) Why is version-control framework such as git important?
+Because version-control framework records set of files over time so that you can recall specific versions later. 
+
+2) Explain the concept of branching in git
+In order to make different people work on the same project without disturbing each other.
